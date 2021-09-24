@@ -1,0 +1,29 @@
+.normal a{
+    color: rgb(255, 100, 110);
+}
+
+.normal p span{
+    font-weight: bold;
+}
+
+.normal > p{
+    color: rgb(12, 87, 12);
+}
+
+.normal .especial{
+    color: yellow;
+    background-color:black
+}
+
+#primero > p{
+    color: rgb(73, 144, 236);
+}
+
+#primero a{
+    color: rgb(255, 100, 110);
+}
+
+#primero em {
+    color:  rgb(11, 11, 196);
+    background-color: rgb(245, 247, 134);
+}
